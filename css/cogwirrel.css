@@ -63,11 +63,19 @@ a:hover {
 	position: absolute;
 	height: 100%;
 	width: 100%;
+	text-align: center;
 }
 
 .container {
 	display: table-cell;
 	vertical-align: middle;
+}
+
+.everything {
+	width: 640px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .business-card {
@@ -77,4 +85,19 @@ a:hover {
 
 #face-img {
 	height: auto;
+}
+
+.orange-bar {
+	position: relative;
+	height: 1px;
+	width: 0px;
+	background-color: #e18728;
+}
+
+.orange-bar-bottom {
+	margin-top: -1px;
+}
+
+.orange-bar-bottom-container {
+	float:right;
 }
