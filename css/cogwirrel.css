@@ -25,6 +25,8 @@ a:hover {
 	font-family: 'Inconsolata';
 	color: #1d1f21;
 	background-color: #fff;
+	white-space: pre;
+	max-width: none;
 }
 
 .tooltip.bottom > .tooltip-arrow {
@@ -33,6 +35,10 @@ a:hover {
 
 .icons {
 	text-align: center;
+}
+
+.icon-col {
+	margin-left: -13px;
 }
 
 .icon-img-container > .tooltip.bottom {
