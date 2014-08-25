@@ -5,7 +5,20 @@ body {
 h1 {
 	color: #e18728;
 	font-family: 'Inconsolata';
-	margin: .67em 0;
+	margin-top: 0;
+}
+
+.align-left { float: left; }
+.align-right { float: right; }
+
+.tagline {
+	margin-top: 5px;
+	margin-right: 8px;
+	font-size: 25px;
+}
+
+.header {
+	margin-top: 10px;
 }
 
 p {
@@ -48,15 +61,6 @@ a:hover {
 .space-60 { height: 60px; }
 .space-30 { height: 30px; }
 .space-15 { height: 15px; }
-
-.align-left { float: left; }
-.align-right { float: right; }
-
-.tagline {
-	margin-top: 30px;
-	margin-right: 8px;
-	font-size: 25px;
-}
 
 .outer {
 	display: table;
