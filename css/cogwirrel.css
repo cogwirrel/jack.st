@@ -33,6 +33,7 @@ a {
 
 a:hover {
 	color: #fff;
+	text-decoration: none;
 }
 
 .tooltip.bottom > .tooltip-inner {
@@ -55,8 +56,15 @@ a:hover {
 	margin-left: -13px;
 }
 
-.icon-img-container > .tooltip.bottom {
-	margin-top: 13px;
+#icon-sq { background: url('../img/squat_icon.png') center no-repeat;}
+#icon-sc { background: url('../img/scribboard_icon.png') center no-repeat;}
+#icon-ch { background: url('../img/bicep_icon.png') center no-repeat;}
+#icon-jk { background: url('../img/jk_icon.png') center no-repeat;}
+
+.icon-with-img {
+	display: inline-block;
+	width: 42px;
+	height: 42px;
 }
 
 .space-60 { height: 60px; }
