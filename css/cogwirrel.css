@@ -53,8 +53,9 @@ a:hover {
 .align-right { float: right; }
 
 .tagline {
-	margin-top: 35px;
+	margin-top: 30px;
 	margin-right: 8px;
+	font-size: 25px;
 }
 
 .outer {
