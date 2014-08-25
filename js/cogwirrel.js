@@ -5,9 +5,9 @@ $(document).ready(function() {
 
 	// Preload invisible images for seamless transition
 	var preloaded_jk = new Image(); preloaded_jk.src = "img/jk_icon_colour.png";
-	var preloaded_ch = new Image(); preloaded_ch.src = "img/ch_icon_colour.png";
-	var preloaded_sc = new Image(); preloaded_sc.src = "img/sc_icon_colour.png";
-	var preloaded_sq = new Image(); preloaded_sq.src = "img/sq_icon_colour.png";
+	var preloaded_ch = new Image(); preloaded_ch.src = "img/bicep_icon_colour.png";
+	var preloaded_sc = new Image(); preloaded_sc.src = "img/scribboard_icon_colour.png";
+	var preloaded_sq = new Image(); preloaded_sq.src = "img/squat_icon_colour.png";
 
 	// I'm a programmer and I'm too lazy to manually write all the css
 	// for the icon fade-colours, so we make the css dynamically
