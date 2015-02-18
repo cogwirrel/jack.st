@@ -28,7 +28,6 @@ var makeIndividualIconHoverCSSBecauseIAmLazy = function() {
 		{name:"gh", colour:"#333333"},
 		{name:"em", colour:"#cc181e"},
 
-		{name:"jk", img:"jk_icon"},
 		{name:"ch", img:"bicep_icon"},
 		{name:"sc", img:"scribboard_icon"},
 		{name:"sq", img:"squat_icon"}
