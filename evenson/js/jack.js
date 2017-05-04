@@ -23,13 +23,13 @@ var makeIndividualIconHoverCSSBecauseIAmLazy = function() {
 	var icons = [
 		{name:"cv", colour:"#e18728"},
 		{name:"in", colour:"#1e87be"},
-		{name:"tw", colour:"#55acee"},
-		{name:"fb", colour:"#43609c"},
+		//{name:"tw", colour:"#55acee"},
+		//{name:"fb", colour:"#43609c"},
 		{name:"gh", colour:"#333333"},
-		{name:"em", colour:"#cc181e"},
+		//{name:"em", colour:"#cc181e"},
 
 		{name:"ch", img:"bicep_icon"},
-		{name:"sc", img:"scribboard_icon"},
+		//{name:"sc", img:"scribboard_icon"},
 		{name:"sq", img:"squat_icon"}
 	];
 
